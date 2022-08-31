@@ -1,4 +1,4 @@
-package com.karthikspringboot.config;
+package com.karthik.springboot.config;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
